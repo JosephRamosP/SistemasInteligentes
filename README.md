@@ -1,1 +1,2 @@
-# SistemasInteligentes
+# Joseph Ramos
+Bienvenidos al curso de sistemas inteligentes 
